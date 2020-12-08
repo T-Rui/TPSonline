@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DD24021C-4E74-5993-D46E-3787C0F9276E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPSCharacterSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
